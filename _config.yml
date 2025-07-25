@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Chenghang Li"
 title_separator          : "-"
 name                     : &name "Chenghang Li"
-description              : &description "Ph.D. Candidate, Tiangong University | Research Focus: Mathematical Modeling of Tumor-Immune Interactions"
+description              : &description "Ph.D. Candidate, Tiangong University"
 url                      : https://CLi-Alex.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
