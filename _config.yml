@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chenghang.jpg"
   name             : "Chenghang Li (李城杭)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate, Tiangong University<br>Research Focus: Mathematical Modeling of Tumor-Immune Interactions"
