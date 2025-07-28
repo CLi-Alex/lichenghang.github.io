@@ -17,6 +17,7 @@ My research focuses on the intersection of applied mathematics and life sciences
 - (1) Mechanistic analysis and dynamic modeling of tumor-immune interactions;
 - (2) Investigating dynamic mechanisms of immune checkpoint inhibitor treatment responses;
 - (3) Analyzing synergistic effects of combination therapies and exploring the impact of tumor heterogeneity on treatment efficacy.
+  
 I am particularly interested in integrating theoretical models with experimental/clinical data to uncover tumor immune evasion mechanisms through mathematical modeling, thereby providing quantitative decision support for precision medicine. Currently, I am developing mechanism- and data-driven multiscale models of tumor-immune systems to better understand individual variations in immunotherapy responses.
 
 Postscript
