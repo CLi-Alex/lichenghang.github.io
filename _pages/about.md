@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a PhD candidate in Applied Mathematics at the School of Mathematical Sciences, Tiangong University, China.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I earned a B.S. in Mathematics and Applied Mathematics from the School of Mathematical Sciences at Huaibei Normal University (2016–2020). During the same period, I pursued a minor in Accounting at the School of Economics and Management of the same university and earned a B.M. degree (2017–2020). Since 2022, I have been pursuing my Master’s degree in Mathematics at the School of Mathematical Sciences, Tiangong University. In 2024, I transitioned to the combined Master-PhD program. Professor [Jinzhi Lei](https://www.researchgate.net/profile/Jinzhi-Lei/research) supervises me.
 
 A data-driven personal website
 ======
