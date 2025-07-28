@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chenghang Li"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Chenghang Li"
 description              : &description "Ph.D. Candidate, Tiangong University"
