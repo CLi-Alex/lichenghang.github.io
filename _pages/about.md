@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Applied Mathematics at Tiangong University, China. 
-
-I earned a B.S. in Mathematics and Applied Mathematics at Huaibei Normal University (2016–2020). During the same period, I pursued a minor in Accounting and earned a B.M. degree (2017–2020). Since 2022, I have been pursuing my Master’s degree in Mathematics at Tiangong University. In 2024, I transitioned to the combined Master-PhD program. Professor [Jinzhi Lei](https://www.researchgate.net/profile/Jinzhi-Lei/research) supervises me.
+I am a PhD candidate in Applied Mathematics at Tiangong University, China. I earned a B.S. in Mathematics and Applied Mathematics at Huaibei Normal University (2016–2020). During the same period, I pursued a minor in Accounting and earned a B.M. degree (2017–2020). Since 2022, I have been pursuing my Master’s degree in Mathematics at Tiangong University. In 2024, I transitioned to the combined Master-PhD program. Professor [Jinzhi Lei](https://www.researchgate.net/profile/Jinzhi-Lei/research) supervises me.
 
 Main research interests and directions
 ======
