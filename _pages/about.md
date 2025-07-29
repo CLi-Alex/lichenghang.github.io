@@ -15,9 +15,9 @@ My research focuses on the intersection of applied mathematics and life sciences
 
 Recently published
 ======
-- Chenghang Li, Zhonghang Ren, Guiyu Yang, Jinzhi <sup>*</sup>Lei. Mathematical Modeling of Tumor Immune Interactions: The Role of Anti-FGFR and Anti-PD-1 in the Combination Therapy. **Bulletin of Mathematical Biology**. 2024.
-- Chenghang Li, Jinzhi <sup>*</sup>Lei. Mathematical Modeling of Tumor-Immune Interactions: Methods, Applications, and Future Perspectives. **CSIAM Transactions on Life Sciences**. 2025.
-- Chenghang Li, Yongchang <sup>*</sup>Wei, Jinzhi <sup>*</sup>Lei. Quantitative cancer-immunity cycle modeling for predicting disease progression in advanced metastatic colorectal cancer. **npj Systems Biology and Applications**. 2025.
+- Chenghang Li, Zhonghang Ren, Guiyu Yang, Jinzhi Lei<sup>*</sup>. Mathematical Modeling of Tumor Immune Interactions: The Role of Anti-FGFR and Anti-PD-1 in the Combination Therapy. **Bulletin of Mathematical Biology**. 2024.
+- Chenghang Li, Jinzhi Lei<sup>*</sup>. Mathematical Modeling of Tumor-Immune Interactions: Methods, Applications, and Future Perspectives. **CSIAM Transactions on Life Sciences**. 2025.
+- Chenghang Li, Yongchang Wei<sup>*</sup>, Jinzhi Lei<sup>*</sup>. Quantitative cancer-immunity cycle modeling for predicting disease progression in advanced metastatic colorectal cancer. **npj Systems Biology and Applications**. 2025.
 
 Postscript
 ======
