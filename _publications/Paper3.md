@@ -10,4 +10,3 @@ paperurl: 'https://www.nature.com/articles/s41540-025-00513-1'
 citation: 'Li C, Wei Y, Lei J. Quantitative cancer-immunity cycle modeling for predicting disease progression in advanced metastatic colorectal cancer. NPJ Syst Biol Appl. 2025. doi:10.1038/s41540-025-00513-1'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
