@@ -15,6 +15,12 @@ Main research interests and directions
 ======
 My research focuses on the intersection of applied mathematics and life sciences, particularly employing mathematical modeling and quantitative approaches to investigate complex systems in biomedicine. Currently, my project focuses on mechanistic modeling and quantitative analysis of tumor-immune interactions. I am particularly interested in integrating theoretical models with experimental/clinical data to uncover tumor immune evasion mechanisms through mathematical modeling, thereby providing quantitative decision support for precision medicine. Currently, I am developing mechanism- and data-driven multiscale models of tumor-immune systems to better understand individual variations in immunotherapy responses.
 
+Recently published
+======
+- Li C, Ren Z, Yang G, Lei J. Mathematical Modeling of Tumor Immune Interactions: The Role of Anti-FGFR and Anti-PD-1 in the Combination Therapy. Bulletin of Mathematical Biology. 2024.
+- Li C, Lei J. Mathematical Modeling of Tumor-Immune Interactions: Methods, Applications, and Future Perspectives. CSIAM Transactions on Life Sciences. 2025.
+- Li C, Wei Y, Lei J. Quantitative cancer-immunity cycle modeling for predicting disease progression in advanced metastatic colorectal cancer. npj Systems Biology and Applications. 2025.
+
 Postscript
 ======
 Welcome to join Prof. Jinzhi Lei's Lab at Tiangong University for Master's and Ph.D. programs!
