@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Mathematical Modeling of Tumor Immune Interactions: The Role of Anti-FGFR and Anti-PD-1 in the Combination Therapy"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/2024-08-07-paper-title-number-1
+excerpt: 'Bladder cancer poses a significant global health burden with high incidence and recurrence rates. This study addresses the therapeutic challenges in advanced bladder cancer, focusing on the competitive mechanisms of ligand or drug binding to receptors. We developed a refined mathematical model that integrates the dynamics of tumor cells and immune responses, particularly targeting fibroblast growth factor receptor 3 (FGFR3) and immune checkpoint inhibitors (ICIs). This study contributes to understanding combination therapies by elucidating the competitive binding dynamics and quantifying the synergistic effects. The findings highlight the importance of personalized immunotherapeutic strategies, considering factors such as drug dosage, dosing schedules, and patient-specific parameters. Our model further reveals that ligand-independent activated-state receptors are the most essential drivers of tumor proliferation. Moreover, we found that PD-L1 expression rate was more important than PD-1 in driving the dynamic evolution of tumor and immune cells. The proposed mathematical model provides a comprehensive framework for unraveling the complexities of combination therapies in advanced bladder cancer. As research progresses, this multidisciplinary approach contributes valuable insights toward optimizing therapeutic strategies and advancing cancer treatment paradigms.'
+date: 2024-08-07
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# slidesurl: 'http://academicpages.github.io/files/Paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/Paper1.pdf'
+# bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Li, C., Ren, Z., Yang, G. et al. Mathematical Modeling of Tumor Immune Interactions: The Role of Anti-FGFR and Anti-PD-1 in the Combination Therapy. Bull Math Biol 86, 116 (2024). https://doi.org/10.1007/s11538-024-01329-6'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
