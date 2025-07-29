@@ -11,7 +11,7 @@ I am a PhD candidate in Applied Mathematics at Tiangong University, China. I ear
 
 Main research interests and directions
 ======
-My research focuses on the intersection of applied mathematics and life sciences, particularly employing mathematical modeling and quantitative approaches to investigate complex systems in biomedicine. Currently, my project focuses on **mechanistic modeling and quantitative analysis of tumor-immune interactions**. I am particularly interested in integrating theoretical models with experimental/clinical data to uncover tumor immune evasion mechanisms through mathematical modeling, thereby providing quantitative decision support for precision medicine.
+My research focuses on the intersection of applied mathematics and life sciences, particularly employing mathematical modeling and quantitative approaches to investigate complex systems in biomedicine. Currently, my project focuses on **mathematical modeling and quantitative analysis of tumor-immune interactions**. I am particularly interested in integrating theoretical models with experimental/clinical data to uncover tumor immune evasion mechanisms through mathematical modeling, thereby providing quantitative decision support for precision medicine.
 
 Recently published
 ======
